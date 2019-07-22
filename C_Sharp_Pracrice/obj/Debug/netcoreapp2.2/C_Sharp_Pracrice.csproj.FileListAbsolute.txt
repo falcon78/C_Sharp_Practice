@@ -1,0 +1,11 @@
+C:\Users\KHATRISUJAN\source\repos\C_Sharp_Pracrice\C_Sharp_Pracrice\bin\Debug\netcoreapp2.2\C_Sharp_Pracrice.deps.json
+C:\Users\KHATRISUJAN\source\repos\C_Sharp_Pracrice\C_Sharp_Pracrice\bin\Debug\netcoreapp2.2\C_Sharp_Pracrice.runtimeconfig.json
+C:\Users\KHATRISUJAN\source\repos\C_Sharp_Pracrice\C_Sharp_Pracrice\bin\Debug\netcoreapp2.2\C_Sharp_Pracrice.runtimeconfig.dev.json
+C:\Users\KHATRISUJAN\source\repos\C_Sharp_Pracrice\C_Sharp_Pracrice\bin\Debug\netcoreapp2.2\C_Sharp_Pracrice.dll
+C:\Users\KHATRISUJAN\source\repos\C_Sharp_Pracrice\C_Sharp_Pracrice\bin\Debug\netcoreapp2.2\C_Sharp_Pracrice.pdb
+C:\Users\KHATRISUJAN\source\repos\C_Sharp_Pracrice\C_Sharp_Pracrice\obj\Debug\netcoreapp2.2\C_Sharp_Pracrice.csprojAssemblyReference.cache
+C:\Users\KHATRISUJAN\source\repos\C_Sharp_Pracrice\C_Sharp_Pracrice\obj\Debug\netcoreapp2.2\C_Sharp_Pracrice.csproj.CoreCompileInputs.cache
+C:\Users\KHATRISUJAN\source\repos\C_Sharp_Pracrice\C_Sharp_Pracrice\obj\Debug\netcoreapp2.2\C_Sharp_Pracrice.AssemblyInfoInputs.cache
+C:\Users\KHATRISUJAN\source\repos\C_Sharp_Pracrice\C_Sharp_Pracrice\obj\Debug\netcoreapp2.2\C_Sharp_Pracrice.AssemblyInfo.cs
+C:\Users\KHATRISUJAN\source\repos\C_Sharp_Pracrice\C_Sharp_Pracrice\obj\Debug\netcoreapp2.2\C_Sharp_Pracrice.dll
+C:\Users\KHATRISUJAN\source\repos\C_Sharp_Pracrice\C_Sharp_Pracrice\obj\Debug\netcoreapp2.2\C_Sharp_Pracrice.pdb
